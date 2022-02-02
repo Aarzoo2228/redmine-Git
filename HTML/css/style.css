@@ -1,8 +1,12 @@
 .h2 {
     background-color: azure;
 }
+<<<<<<< HEAD
 
-h1{
+=======
+>>>>>>> c1e7c19cbb8929acfbf9b857d882089a250672dd
+
+.h1{
     background:white;
     margin-top:40px;
 }
@@ -11,7 +15,7 @@ h1{
     background:blue;
     break-after: initial;
 }
-h2{
-    background-color: black;
-}
 
+h3{
+    background:blue;
+}
