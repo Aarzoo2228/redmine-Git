@@ -2,13 +2,14 @@
     background-color: azure;
 }
 
-h1{
+.h1{
     background:white;
     margin-top:40px;
 }
 
-p{
+.p{
     background:blue;
+    break-after: initial;
 }
 
 h3{
