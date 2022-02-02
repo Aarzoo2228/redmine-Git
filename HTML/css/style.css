@@ -1,6 +1,6 @@
 .h2 {
     background-color: azure;
-
+}
 
 h1{
     background:white;
@@ -9,6 +9,7 @@ h1{
 p{
     background:blue;
 }
-h2{
-    background-color: black;
+
+.class{
+    background: gray;
 }
