@@ -4,12 +4,13 @@
 
 h1{
     background:white;
+    margin-top:40px;
 }
 
 p{
     background:blue;
 }
-
-.class{
-    background: gray;
+h2{
+    background-color: black;
 }
+
