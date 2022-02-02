@@ -1,15 +1,16 @@
 .h2 {
     background-color: azure;
-
 }
-.h1{
+
+h1{
     background:white;
+    margin-top:40px;
 }
 
 .p{
     background:blue;
 }
-
-.h2{
-    background-color: initial;
+h2{
+    background-color: black;
 }
+
