@@ -1,3 +1,13 @@
 .h2 {
     background-color: azure;
+body{
+    background:lightblue;
+}
+
+h1{
+    background:red;
+}
+
+p{
+    background:green;
 }
