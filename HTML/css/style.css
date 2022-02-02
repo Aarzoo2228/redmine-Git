@@ -9,6 +9,7 @@ h1{
 
 .p{
     background:blue;
+    break-after: initial;
 }
 h2{
     background-color: black;
