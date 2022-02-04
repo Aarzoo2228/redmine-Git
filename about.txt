@@ -2,12 +2,13 @@
 Hello
 hyy
 hyy
-<<<<<<< HEAD
 hyy
-=======
 hyy
 hello evryone
+<<<<<<< HEAD
 >>>>>>> 4ca3c9ec369b3975557054d70c1370b1ef1ccac1
 =======
 Hello
 >>>>>>> b99480b... about .txt added
+=======
+>>>>>>> 195379a7d387144e92f00121434ba2cdff3ccf47
