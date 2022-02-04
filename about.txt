@@ -1,9 +1,6 @@
 Hello
 hyy
 hyy
-<<<<<<< HEAD
 hyy
-=======
 hyy
 hello evryone
->>>>>>> 4ca3c9ec369b3975557054d70c1370b1ef1ccac1
